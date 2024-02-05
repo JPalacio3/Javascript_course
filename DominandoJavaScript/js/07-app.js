@@ -26,8 +26,6 @@ function hola() {
 }
 hola();
 
-
-
 /*
 Primero
 07-app.js:13 Tercero
