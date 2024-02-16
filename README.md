@@ -29,7 +29,5 @@ Este proyecto está creado con el conocimiento compartido por el Maestro Juan de
 <p> <a href="https://github.com/codigoconjuan" target="_blank">Juan Pablo De la torre Valdez</a> </p>
 <p class="hashtag">#JSModernoConJuan</p>
 
-
-
 *Nota: Este repositorio y los apuntes asociados son proporcionados con fines educativos y de aprendizaje.*
 
