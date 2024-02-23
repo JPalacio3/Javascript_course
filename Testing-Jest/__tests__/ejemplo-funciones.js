@@ -32,7 +32,4 @@ describe( 'Testting a las funciones de Suma y Resta', () => {
     test( 'Que la resta de 10 y 10 no sea 10', () => {
         expect( resta( 10, 10 ) ).not.toBe( 10 );
     } );
-
-
-
 } )
