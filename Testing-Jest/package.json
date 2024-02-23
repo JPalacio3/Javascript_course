@@ -1,0 +1,22 @@
+{
+  "name": "testing-jest",
+  "version": "1.0.0",
+  "description": "Aprendiendo Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPalacio3/Javascript_course.git"
+  },
+  "author": "Joel Palacio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPalacio3/Javascript_course/issues"
+  },
+  "homepage": "https://github.com/JPalacio3/Javascript_course#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
