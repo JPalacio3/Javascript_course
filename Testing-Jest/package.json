@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JPalacio3/Javascript_course#readme",
   "devDependencies": {
+    "@babel/preset-env": "^7.23.9",
     "jest": "^29.7.0"
   }
 }
