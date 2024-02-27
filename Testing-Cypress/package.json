@@ -1,0 +1,22 @@
+{
+  "name": "testing-cypress",
+  "version": "1.0.0",
+  "description": "Aprendiendo Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joel Palacio",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPalacio3/Javascript_course.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JPalacio3/Javascript_course/issues"
+  },
+  "homepage": "https://github.com/JPalacio3/Javascript_course#readme"
+}
